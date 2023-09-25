@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border : border-box;
+}
+
+body{
+    background-color: rgb(239, 243, 244);
+}
+
+
+
+h1{
+color:red;
+text-align: center;
+/* background-color:rgb(248, 225, 196) ; */
+background-image: url(https://t3.ftcdn.net/jpg/02/58/76/68/240_F_258766852_R1gV6SCbS6D4V7GX8gbhQw7nimQY9KOR.jpg);
+background-size: cover;
+}
+
+H2{
+    color: rgb(4, 25, 47);
+    text-align: left;
+    
+}
+H4{
+    color: brown;
+}
+H5{
+    color: blue;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.contentbox1{
+    height: 1.5cm;
+    width: 1.5CM;
+    border: 2px solid black;
+   
+    text-align: center;
+}
+/* this is a form dision */
+.contentbox{
+    height: 6cm;
+    width: 7cm;
+    border: solid ;
+    background-color: rgb(238, 245, 238);
+    margin-left: 600px;
+    
+}
+.applynow{
+    color: black;
+    text-align: center;
+    background-color: green;
+}
+    
+BUTTON{
+    background-color: rgb(42, 42, 253);
+    color: black;
+    
+    border: 2px solid black;
+    
+   
+
+}
+.BOX{
+    height: 0.6CM;
+    width: 7cm;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(170, 180, 176);
+    margin-left: 600px;
+    
+}
+
+body{
+    /* background-image: url("https://www.transparentpng.com/thumb/water-drop/2m1tQL-water-drops-transparent-picture.png"); */
+    /* background-image: url("https://www.transparentpng.com/thumb/water-drop/2m1tQL-water-drops-transparent-picture.png"); */
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-ifyyp&psig=AOvVaw0pDVZOGlHCsnyZznMUs9m0&ust=1687409630683000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLir0v2Y0v8CFQAAAAAdAAAAABAD"); 
+    background-size: cover;
+
+    }
+.detal{
+    
+    display: flex;
+    
+}
+.content{
+    background-color: black;
+}
+
+ .pro{
+    width: 30cm;
+    height: 10cm;
+    margin-left: 20PX;
+ }
+ .footer{
+    display: flex;
+    justify-content: end;
+    color:red;
+    transition: all 10s ease-in;
+    
+ 
+    
+}
+
+.footer:hover{
+
+    transform: translateX(-900px);
+}
+INPUT{
+    width: 6cm;
+}
+.sen{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+nev{
+    display: flex;
+    background-color: rgb(16, 235, 71);
+}
+.nev1{
+  margin-left: 15px;
+}
+.nev2{
+  margin-left: 37cm;
+}
